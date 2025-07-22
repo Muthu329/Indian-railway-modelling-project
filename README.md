@@ -1,5 +1,5 @@
 
-#🚆 Railway Accident Risk Analytics & Modeling in India (1902–2024)
+🚆 Railway Accident Risk Analytics & Modeling in India (1902–2024)
 
 📊 End-to-End Data Science Project | By [Muthuraj]
 
