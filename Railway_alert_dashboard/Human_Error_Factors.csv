@@ -1,0 +1,201 @@
+Incident_ID,Crew_ID,Hours_of_Duty,Shift,Error_Type,Alcohol_Test_Result,Sleep_Hours_Last_24h,Disciplinary_History
+8270,EMP0052,8,Night,Fatigue,Pass,5.5,No
+1860,EMP0161,12,Afternoon,Signal Passed at Danger,Pass,8.0,No
+6390,EMP0168,13,Afternoon,Fatigue,Pass,5.3,No
+6191,EMP0128,9,Morning,None,Pass,4.8,No
+6734,EMP0039,7,Afternoon,Fatigue,Pass,3.9,No
+7265,EMP0082,8,Afternoon,Inattention,Pass,2.7,No
+1466,EMP0104,6,Afternoon,None,Pass,6.4,No
+5426,EMP0129,13,Afternoon,Inattention,Pass,3.2,Yes
+6578,EMP0011,8,Morning,None,Pass,2.7,No
+9322,EMP0185,12,Morning,Fatigue,Pass,4.5,No
+2685,EMP0178,10,Night,Miscommunication,Pass,6.8,No
+1769,EMP0151,10,Afternoon,Inattention,Pass,6.5,No
+7949,EMP0159,12,Night,Miscommunication,Pass,2.3,No
+3433,EMP0042,14,Morning,Fatigue,Pass,4.7,No
+6311,EMP0099,10,Morning,Fatigue,Pass,5.1,No
+6051,EMP0007,6,Morning,Fatigue,Pass,5.9,No
+7420,EMP0144,6,Morning,Miscommunication,Pass,5.9,No
+2184,EMP0090,7,Morning,None,Pass,4.2,No
+5555,EMP0112,11,Morning,Miscommunication,Pass,5.4,No
+4385,EMP0060,14,Morning,Fatigue,Pass,4.9,No
+7396,EMP0113,13,Afternoon,None,Pass,7.3,No
+9666,EMP0002,10,Night,Signal Passed at Danger,Pass,5.2,No
+3558,EMP0129,6,Morning,Signal Passed at Danger,Pass,4.6,No
+8849,EMP0048,12,Afternoon,Fatigue,Pass,4.4,No
+3047,EMP0140,10,Afternoon,Miscommunication,Pass,5.4,No
+3747,EMP0197,11,Night,Fatigue,Pass,6.8,No
+1189,EMP0037,12,Morning,Inattention,Pass,5.2,Yes
+3734,EMP0160,8,Night,None,Pass,6.0,No
+4005,EMP0009,8,Morning,Fatigue,Fail,6.4,No
+5658,EMP0099,10,Afternoon,Inattention,Pass,5.1,No
+2899,EMP0147,11,Afternoon,Fatigue,Pass,4.6,Yes
+8734,EMP0048,14,Afternoon,Signal Passed at Danger,Pass,7.3,No
+2267,EMP0131,10,Afternoon,Inattention,Pass,4.5,No
+2528,EMP0148,6,Night,Signal Passed at Danger,Pass,4.8,No
+4556,EMP0152,9,Morning,Inattention,Pass,7.9,No
+4890,EMP0054,10,Morning,Inattention,Pass,2.0,No
+9838,EMP0120,10,Night,Inattention,Pass,3.1,No
+6393,EMP0161,12,Morning,Miscommunication,Pass,4.3,Yes
+9792,EMP0152,9,Afternoon,Inattention,Pass,7.6,No
+9433,EMP0116,6,Morning,Inattention,Pass,2.4,No
+8513,EMP0075,10,Afternoon,Inattention,Pass,2.1,No
+3612,EMP0113,12,Night,Signal Passed at Danger,Pass,2.3,No
+8041,EMP0200,11,Morning,Signal Passed at Danger,Pass,2.5,No
+7235,EMP0164,10,Night,None,Pass,2.2,No
+6486,EMP0166,9,Morning,Inattention,Pass,4.9,No
+8099,EMP0104,7,Afternoon,Fatigue,Pass,5.5,No
+1775,EMP0084,9,Night,Inattention,Pass,3.6,No
+9226,EMP0112,8,Morning,Signal Passed at Danger,Pass,4.4,No
+4152,EMP0099,6,Afternoon,None,Pass,2.6,No
+2585,EMP0153,13,Night,Fatigue,Pass,4.0,No
+4943,EMP0093,10,Night,Fatigue,Pass,5.1,No
+8555,EMP0146,9,Morning,Signal Passed at Danger,Pass,6.4,No
+4073,EMP0128,13,Morning,Inattention,Pass,2.0,No
+2021,EMP0110,12,Morning,None,Pass,4.8,No
+4843,EMP0082,7,Afternoon,Fatigue,Pass,3.8,No
+8989,EMP0194,6,Morning,None,Pass,7.1,No
+7873,EMP0054,9,Night,Fatigue,Pass,6.3,No
+6675,EMP0163,13,Night,None,Pass,5.5,No
+1161,EMP0189,7,Morning,Fatigue,Pass,3.7,No
+5297,EMP0169,8,Morning,Fatigue,Pass,7.5,No
+1995,EMP0161,6,Night,Miscommunication,Fail,2.3,No
+8629,EMP0068,6,Afternoon,None,Pass,2.7,No
+2016,EMP0033,8,Morning,None,Pass,4.3,No
+8869,EMP0142,10,Morning,Inattention,Pass,2.7,No
+7439,EMP0021,8,Night,None,Pass,7.7,Yes
+8892,EMP0048,6,Morning,Fatigue,Pass,6.8,No
+7863,EMP0148,6,Afternoon,None,Pass,3.6,No
+8916,EMP0128,13,Night,Inattention,Pass,5.5,No
+9529,EMP0136,7,Morning,Miscommunication,Pass,7.9,No
+1878,EMP0135,8,Night,None,Pass,7.3,No
+5887,EMP0195,7,Morning,Miscommunication,Pass,5.6,Yes
+5859,EMP0145,8,Morning,Inattention,Pass,7.4,No
+7331,EMP0128,12,Morning,Inattention,Pass,7.9,No
+9571,EMP0033,6,Afternoon,None,Pass,6.5,Yes
+9684,EMP0176,13,Afternoon,Fatigue,Pass,2.4,No
+8208,EMP0187,7,Night,None,Fail,4.4,No
+6276,EMP0115,8,Morning,Miscommunication,Pass,7.0,No
+3062,EMP0119,14,Morning,Fatigue,Pass,3.4,No
+1064,EMP0022,12,Afternoon,Miscommunication,Fail,7.0,No
+9006,EMP0158,9,Morning,Inattention,Pass,2.7,No
+3568,EMP0038,10,Afternoon,Miscommunication,Pass,2.3,No
+6463,EMP0109,7,Morning,Miscommunication,Pass,4.3,Yes
+3027,EMP0051,13,Night,Fatigue,Pass,2.2,No
+3695,EMP0182,9,Morning,Inattention,Pass,7.7,No
+6258,EMP0008,14,Morning,None,Pass,7.0,No
+6618,EMP0027,10,Afternoon,Signal Passed at Danger,Pass,6.8,No
+7736,EMP0027,14,Morning,Inattention,Pass,5.8,No
+1391,EMP0021,9,Morning,Signal Passed at Danger,Pass,3.3,No
+6892,EMP0030,10,Afternoon,Inattention,Pass,5.1,No
+4561,EMP0097,14,Night,Inattention,Pass,5.6,No
+7184,EMP0028,13,Night,Inattention,Pass,5.2,No
+4099,EMP0111,8,Afternoon,Fatigue,Pass,3.6,No
+7278,EMP0192,6,Afternoon,Miscommunication,Pass,5.1,No
+9392,EMP0197,8,Afternoon,Fatigue,Pass,4.9,No
+4104,EMP0061,9,Afternoon,Fatigue,Pass,8.0,No
+8215,EMP0048,7,Afternoon,Fatigue,Pass,7.4,No
+3454,EMP0147,6,Night,Fatigue,Pass,4.8,No
+9996,EMP0004,12,Night,Inattention,Pass,5.7,No
+3731,EMP0035,13,Afternoon,Inattention,Pass,6.5,No
+9154,EMP0192,12,Morning,Miscommunication,Pass,2.2,No
+6056,EMP0049,10,Afternoon,Fatigue,Pass,7.4,No
+9110,EMP0017,6,Morning,None,Pass,7.2,Yes
+4840,EMP0172,12,Afternoon,Miscommunication,Pass,4.7,No
+2028,EMP0158,12,Afternoon,Signal Passed at Danger,Fail,4.3,No
+8385,EMP0046,14,Night,None,Pass,3.6,No
+1502,EMP0117,8,Morning,None,Pass,4.9,No
+7910,EMP0006,14,Morning,Fatigue,Pass,2.3,No
+7938,EMP0099,6,Night,Signal Passed at Danger,Fail,7.1,No
+5488,EMP0124,6,Night,None,Pass,2.2,No
+1206,EMP0037,9,Night,Miscommunication,Pass,4.0,No
+6134,EMP0024,14,Night,Fatigue,Pass,7.6,No
+6977,EMP0093,11,Morning,Miscommunication,Pass,6.4,No
+8721,EMP0046,8,Morning,None,Pass,3.7,No
+8035,EMP0181,6,Afternoon,Miscommunication,Pass,3.5,No
+2484,EMP0095,9,Afternoon,Miscommunication,Pass,2.0,Yes
+8858,EMP0099,14,Night,None,Pass,6.2,No
+1863,EMP0188,8,Night,Fatigue,Pass,2.3,Yes
+3790,EMP0116,14,Night,Fatigue,Pass,5.2,No
+8408,EMP0191,12,Afternoon,Inattention,Pass,7.8,No
+9755,EMP0160,9,Afternoon,None,Pass,2.7,No
+6116,EMP0161,8,Afternoon,Signal Passed at Danger,Pass,7.4,No
+7019,EMP0067,10,Afternoon,Inattention,Pass,7.9,Yes
+2757,EMP0128,10,Afternoon,Miscommunication,Pass,2.4,No
+8574,EMP0018,8,Afternoon,Inattention,Pass,7.3,No
+7374,EMP0025,14,Afternoon,Miscommunication,Pass,5.1,No
+7892,EMP0054,9,Night,None,Pass,7.4,No
+2678,EMP0058,10,Night,Inattention,Pass,5.4,No
+4242,EMP0067,9,Night,Inattention,Pass,6.0,No
+5636,EMP0104,10,Night,Signal Passed at Danger,Pass,5.3,No
+2059,EMP0174,12,Afternoon,Inattention,Pass,7.2,No
+7668,EMP0024,14,Morning,Signal Passed at Danger,Pass,6.4,No
+4157,EMP0114,12,Afternoon,Signal Passed at Danger,Pass,5.1,No
+6915,EMP0032,10,Morning,Inattention,Pass,7.2,No
+3693,EMP0175,12,Night,Fatigue,Pass,3.5,No
+4627,EMP0086,10,Afternoon,Fatigue,Pass,2.9,No
+6450,EMP0151,8,Night,Inattention,Pass,3.0,No
+2663,EMP0194,12,Afternoon,Signal Passed at Danger,Pass,4.0,No
+6592,EMP0127,7,Night,Signal Passed at Danger,Pass,3.4,No
+8392,EMP0155,14,Morning,Miscommunication,Pass,7.6,Yes
+2306,EMP0130,6,Morning,Miscommunication,Pass,2.6,No
+7776,EMP0017,11,Morning,Fatigue,Pass,6.2,No
+6864,EMP0104,12,Afternoon,None,Pass,3.1,No
+8526,EMP0161,13,Morning,Inattention,Pass,7.3,No
+9901,EMP0137,14,Afternoon,Miscommunication,Pass,7.8,No
+6575,EMP0043,7,Morning,Inattention,Fail,4.8,No
+6530,EMP0176,7,Morning,None,Pass,7.3,No
+5413,EMP0039,10,Afternoon,Miscommunication,Pass,2.0,No
+4748,EMP0170,10,Afternoon,Miscommunication,Pass,6.9,No
+1663,EMP0026,11,Morning,Miscommunication,Pass,3.4,No
+2998,EMP0099,8,Afternoon,Fatigue,Pass,7.5,No
+8994,EMP0050,13,Morning,Fatigue,Pass,2.0,No
+2495,EMP0153,6,Afternoon,Miscommunication,Pass,5.3,No
+4304,EMP0152,11,Night,Inattention,Pass,6.5,No
+4763,EMP0013,9,Night,Miscommunication,Pass,3.6,No
+6232,EMP0060,6,Night,Fatigue,Pass,3.2,No
+2853,EMP0135,12,Night,Inattention,Pass,2.5,No
+7585,EMP0057,14,Night,Signal Passed at Danger,Fail,4.0,No
+2291,EMP0036,9,Morning,Inattention,Pass,5.4,No
+4581,EMP0173,9,Night,Inattention,Pass,2.7,Yes
+8554,EMP0020,11,Night,Inattention,Pass,4.3,No
+8280,EMP0065,8,Night,Inattention,Pass,2.1,Yes
+2636,EMP0008,11,Night,Inattention,Pass,6.9,No
+4696,EMP0144,12,Afternoon,Signal Passed at Danger,Pass,2.8,No
+1698,EMP0142,8,Morning,Miscommunication,Pass,3.7,No
+5737,EMP0115,12,Night,Fatigue,Fail,2.1,No
+1854,EMP0143,8,Night,Inattention,Pass,4.6,Yes
+9164,EMP0092,7,Night,Inattention,Pass,7.0,No
+6855,EMP0098,9,Morning,Miscommunication,Pass,4.4,No
+8392,EMP0066,13,Afternoon,Inattention,Pass,3.1,No
+7528,EMP0032,14,Morning,None,Pass,6.5,No
+6249,EMP0191,12,Afternoon,None,Pass,6.7,Yes
+6172,EMP0086,6,Night,Signal Passed at Danger,Pass,3.0,No
+2707,EMP0051,8,Night,Fatigue,Pass,6.6,No
+6791,EMP0153,14,Morning,Signal Passed at Danger,Pass,7.7,No
+6535,EMP0186,6,Morning,Signal Passed at Danger,Pass,3.0,No
+5931,EMP0063,14,Afternoon,Inattention,Pass,6.6,No
+4510,EMP0190,13,Afternoon,None,Pass,6.3,No
+1202,EMP0125,6,Morning,Fatigue,Fail,4.8,No
+5218,EMP0150,11,Afternoon,Fatigue,Pass,2.3,No
+9958,EMP0058,10,Morning,Signal Passed at Danger,Pass,2.4,No
+5389,EMP0058,11,Afternoon,Miscommunication,Pass,7.1,No
+3327,EMP0086,10,Morning,Inattention,Pass,7.9,No
+9004,EMP0049,11,Morning,Fatigue,Fail,6.1,No
+3931,EMP0180,10,Morning,None,Pass,4.7,No
+8777,EMP0170,10,Afternoon,Miscommunication,Pass,5.9,No
+1197,EMP0070,9,Afternoon,Fatigue,Pass,5.6,No
+8125,EMP0015,8,Afternoon,Miscommunication,Pass,4.3,No
+2930,EMP0054,8,Morning,Miscommunication,Fail,2.4,No
+7287,EMP0188,9,Afternoon,Signal Passed at Danger,Pass,6.9,No
+9800,EMP0101,14,Afternoon,Fatigue,Pass,4.2,No
+5282,EMP0008,7,Morning,Fatigue,Pass,6.9,No
+3511,EMP0053,14,Night,Fatigue,Pass,3.5,No
+1659,EMP0060,6,Morning,None,Pass,2.0,No
+3811,EMP0108,6,Afternoon,None,Fail,3.0,No
+8098,EMP0005,10,Morning,Fatigue,Pass,4.8,No
+7546,EMP0103,11,Night,Fatigue,Pass,7.7,No
+2986,EMP0196,11,Morning,Fatigue,Pass,2.6,No
+9338,EMP0006,8,Afternoon,Fatigue,Pass,7.1,Yes
+3911,EMP0109,12,Night,None,Pass,5.2,No
+2734,EMP0116,14,Afternoon,Signal Passed at Danger,Pass,7.0,No
